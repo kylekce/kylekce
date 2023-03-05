@@ -1,5 +1,5 @@
-# Hi there! 👋
-### Education 🎓
+# 👋 Hi there! 
+### 🎓 Education 
 - De La Salle Araneta University
 - FEU Institute of Technology
 
