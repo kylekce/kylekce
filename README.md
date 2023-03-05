@@ -9,7 +9,7 @@
 - CCNA: Introduction to Networks, Cisco
 - DevNet Associate, Cisco
 
-### Programming Language
+### Programming Language 💻
 - Java
 - Python
 - HTML and CSS
