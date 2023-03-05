@@ -1,4 +1,4 @@
-# Hi there 👋!, I'm Kyle Español
+# Hi there! 👋
 ### Education 🎓
 - De La Salle Araneta University
 - FEU Institute of Technology
