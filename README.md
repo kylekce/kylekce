@@ -1,9 +1,9 @@
 # 👋 Hi there! 
-### 🎓 Education 
+### 🎓 Educations 
 - De La Salle Araneta University
 - FEU Institute of Technology
 
-### 🏆 Certification 
+### 🏆 Certifications
 - IT Specialist - Java, Certiport
 - IT Specialist - Python, Certiport
 - CCNA: Introduction to Networks, Cisco
