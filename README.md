@@ -4,10 +4,10 @@
 - FEU Institute of Technology
 
 ### 🏆 Certifications
-- IT Specialist - Java, Certiport
-- IT Specialist - Python, Certiport
-- CCNA: Introduction to Networks, Cisco
-- DevNet Associate, Cisco
+- Information Technology Specialist in Java - Certiport
+- Information Technology Specialist in Python - Certiport
+- CCNAv7: Introduction to Networks - Cisco
+- DevNet Associate - Cisco
 
 ### 💻 Languages
 <p align="left"> 
