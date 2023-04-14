@@ -1,20 +1,20 @@
-### 👋 About Me 
----
-# 🎓 Educations 
+# 👋 About Me 
+
+### 🎓 Educations 
 - [De La Salle Araneta University](https://dlsau.edu.ph/)
 - [FEU Institute of Technology](https://www.feutech.edu.ph/)
 
-# 🏆 Certifications
+### 🏆 Certifications
 - [Information Technology Specialist in Java - Certiport](https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad)
 - [Information Technology Specialist in Python - Certiport](https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2)
 - [CCNAv7: Introduction to Networks - Cisco](https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa)
 - [DevNet Associate - Cisco](https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a)
 
-# 💼 Personal/Commissioned Projects
+### 💼 Personal/Commissioned Projects
 - [Ease Portfolio](https://ease-portfolio.netlify.app/)
 - [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/)
 
-# 💻 Languages
+### 💻 Languages
 <p> 
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -29,7 +29,7 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"> &nbsp; <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40"/> </a>
 </p>
 
-# 🔧 Tools
+### 🔧 Tools
 <p> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
