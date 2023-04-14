@@ -1,4 +1,18 @@
 # 👋 Hi there! 
+### 🎓 Educations 
+- De La Salle Araneta University
+- FEU Institute of Technology
+
+### 🏆 Certifications
+- <a href="https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad" target="_blank" rel="noreferrer">Information Technology Specialist in Java - Certiport </a>
+- <a href="https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2" target="_blank" rel="noreferrer">Information Technology Specialist in Python - Certiport </a>
+- <a href="https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa" target="_blank" rel="noreferrer">CCNAv7: Introduction to Networks - Cisco </a>
+- <a href="https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a" target="_blank" rel="noreferrer">DevNet Associate - Cisco </a>
+
+### 🏆 Personal/Commissioned Projects
+- <a href="https://ease-portfolio.netlify.app/" target="_blank" rel="noreferrer">Ease Portfolio </a>
+- <a href="https://github.com/kylekce/Credit-Card-Validation-Systems/" target="_blank" rel="noreferrer">Credit Card Validation Systems </a>
+
 ### 💻 Languages
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -24,17 +38,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="github.png" alt="github" width="40" height="40"/> </a>
 </p>
-
-### 🎓 Educations 
-- De La Salle Araneta University
-- FEU Institute of Technology
-
-### 🏆 Certifications
-- <a href="https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad" target="_blank" rel="noreferrer">Information Technology Specialist in Java - Certiport </a>
-- <a href="https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2" target="_blank" rel="noreferrer">Information Technology Specialist in Python - Certiport </a>
-- <a href="https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa" target="_blank" rel="noreferrer">CCNAv7: Introduction to Networks - Cisco </a>
-- <a href="https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a" target="_blank" rel="noreferrer">DevNet Associate - Cisco </a>
-
-### 🏆 Personal/Commissioned Projects
-- <a href="https://ease-portfolio.netlify.app/" target="_blank" rel="noreferrer">Ease Portfolio </a>
-- <a href="https://github.com/kylekce/Credit-Card-Validation-Systems/" target="_blank" rel="noreferrer">Credit Card Validation Systems </a>
