@@ -1,7 +1,7 @@
 # 👋 Hi there! 
 ### 🎓 Educations 
-- De La Salle Araneta University
-- FEU Institute of Technology
+- <a href="https://dlsau.edu.ph/" target="_blank" rel="noopener noreferrer">De La Salle Araneta University </a>
+- <a href="https://www.feutech.edu.ph/" target="_blank" rel="noopener noreferrer">FEU Institute of Technology </a>
 
 ### 🏆 Certifications
 - <a href="https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad" target="_blank" rel="noopener noreferrer">Information Technology Specialist in Java - Certiport </a>
