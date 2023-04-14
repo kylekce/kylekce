@@ -37,4 +37,4 @@
 
 ### 🏆 Personal/Commissioned Projects
 - <a href="https://ease-portfolio.netlify.app/" target="_blank" rel="noreferrer">Ease Portfolio </a>
-- <a href="https://github.com/kylekce/Credit-Card-Validation-Systems/" target="_blank" rel="noreferrer">Ease Portfolio </a>
+- <a href="https://github.com/kylekce/Credit-Card-Validation-Systems/" target="_blank" rel="noreferrer">Credit Card Validation Systems </a>
