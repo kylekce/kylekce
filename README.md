@@ -1,5 +1,3 @@
-# 👋 About Me 
-
 ### 🎓 Educations 
 - [De La Salle Araneta University](https://dlsau.edu.ph/)
 - [FEU Institute of Technology](https://www.feutech.edu.ph/)
