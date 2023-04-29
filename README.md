@@ -7,6 +7,7 @@
 - [Information Technology Specialist in Python - Certiport](https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2)
 - [CCNAv7: Introduction to Networks - Cisco](https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa)
 - [DevNet Associate - Cisco](https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a)
+- [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
 
 ### 💼 Personal/Commissioned Projects
 - [Ease Portfolio](https://ease-portfolio.netlify.app/)
