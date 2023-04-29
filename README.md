@@ -12,6 +12,7 @@
 ### 💼 Personal/Commissioned Projects
 - [Ease Portfolio](https://ease-portfolio.netlify.app/)
 - [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/)
+- [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/)
 
 ### 💻 Languages
 <p> 
