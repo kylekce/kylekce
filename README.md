@@ -10,9 +10,10 @@
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
 
 ### 💼 Personal/Commissioned Projects
+- [Video Lens: Video Content Analysis through Computer Vision and Natural Language Processing](https://github.com/starkproj) (Ongoing)
 - [Ease Portfolio](https://ease-portfolio.netlify.app/)
-- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/)
 - [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/)
+- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/)
 
 ### 💻 Languages
 <p> 
