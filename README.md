@@ -11,7 +11,6 @@
 
 ### 💼 Personal/Commissioned Projects
 - [Video Lens](https://github.com/starkproj) (*Ongoing*) 
-- > Video Content Analysis through Computer Vision and Natural Language Processing
 - [Ease Portfolio](https://ease-portfolio.netlify.app/)
 - [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/)
 - [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/)
