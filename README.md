@@ -3,6 +3,7 @@
 - [FEU Institute of Technology](https://www.feutech.edu.ph/)
 
 ### 🏆 Certifications
+- [CS50x - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
 - [Information Technology Specialist in Java - Certiport](https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad)
 - [Information Technology Specialist in Python - Certiport](https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2)
 - [CCNAv7: Introduction to Networks - Cisco](https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa)
