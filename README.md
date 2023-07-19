@@ -14,7 +14,7 @@
 - [Video Lens](https://github.com/starkproj/) - Video Content Analysis through Computer Vision and Natural Language Processing.
 - [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews.
 - [Ease Portfolio](https://ease-portfolio.netlify.app/) - A comissioned portfolio website.
-- [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/) - A product landing page using pure HTML & CSS.
+- [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/) - A product landing page using vanilla HTML & CSS.
 - [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems.
 
 ### 💻 Languages
