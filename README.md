@@ -10,7 +10,7 @@
 - [DevNet Associate - Cisco](https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a)
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
 
-### 💼 Personal/Commissioned Projects
+### 💼 Projects
 - [Video Lens](https://github.com/starkproj/) - Video Content Analysis through Computer Vision and Natural Language Processing.
 - [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews.
 - [Ease Portfolio](https://ease-portfolio.netlify.app/) - A comissioned portfolio website.
