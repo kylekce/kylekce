@@ -11,7 +11,7 @@
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
 
 ### 💼 Projects
-- [Video Lens](https://github.com/starkproj/) - Video Content Analysis through Computer Vision and Natural Language Processing.
+- [Video Lens](https://github.com/starkproj/) - A video content analysis system integrating Computer Vision and Natural Language Processing.
 - [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews.
 - [Ease Portfolio](https://ease-portfolio.netlify.app/) - A comissioned portfolio website.
 - [Product Landing Page](https://kylekce.github.io/freeCodeCamp-Projects/) - A product landing page using vanilla HTML & CSS.
