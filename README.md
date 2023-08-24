@@ -1,3 +1,8 @@
+### 💪 Skills
+- Building Desktop Apps (PyQT, Electron, or Spring)
+- Building Web Apps(Flask or Django)
+- Building Game Apps (Unity)
+
 ### 🎓 Educations 
 - [De La Salle Araneta University](https://dlsau.edu.ph/)
 - [FEU Institute of Technology](https://www.feutech.edu.ph/)
