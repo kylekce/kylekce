@@ -1,6 +1,6 @@
 ### 💪 Skills
 - Building Desktop Apps (PyQT, Electron, or Spring)
-- Building Web Apps(Flask or Django)
+- Building Web Apps (Flask or Django)
 - Building Game Apps (Unity)
 
 ### 🎓 Educations 
