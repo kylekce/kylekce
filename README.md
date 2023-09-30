@@ -38,4 +38,5 @@
   <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="clion" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"> &nbsp; <img src="github.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="40" height="40"/> </a>
 </p>
