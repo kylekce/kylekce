@@ -14,10 +14,10 @@
 
 ### 💼 Projects
 - [Video Lens](https://github.com/starkproj/) - A research on video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Fullstack Dev**)
-- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Creator**)
-- [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews. (**Creator**)
-- [Ease Portfolio](https://ease-portfolio.netlify.app/) - A commissioned portfolio website showcasing stunning visuals, featuring a gallery of playable video edits, and providing an easy way to connect with the video editor. (**Creator**)
-- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Developer**)
+- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Fullstack Dev**)
+- [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews. (**Fullstack Dev**)
+- [Ease Portfolio](https://ease-portfolio.netlify.app/) - A commissioned portfolio website showcasing stunning visuals, featuring a gallery of playable video edits, and providing an easy way to connect with the video editor. (**Fullstack Dev**)
+- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Fullstack Dev**)
 
 ### 💻 Languages
 <p>  
