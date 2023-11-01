@@ -4,7 +4,7 @@
 
 ### 🏆 Certifications
 - Web Programming with Python and JavaScript - Harvard (_currently on final project_)
-- Introduction to Programming with Python - Harvard (_currently on final project_)
+- [Introduction to Programming with Python - Harvard](https://certificates.cs50.io/06d6ec64-d4a0-4136-a471-219a405afb5d.pdf?size=letter)
 - [Introduction to Computer Science - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
 - [Information Technology Specialist in Java - Certiport](https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad)
 - [Information Technology Specialist in Python - Certiport](https://www.credly.com/badges/36949a25-3565-4135-b414-9477dc22ada2)
