@@ -3,6 +3,7 @@
 - [FEU Institute of Technology](https://www.feutech.edu.ph/)
 
 ### 🏆 Certifications
+- Algorithms Specialization - Stanford (_currently enrolled_)
 - Introduction to Programming with Python - Harvard (_currently on final project_)
 - [Web Programming with Python and JavaScript - Harvard](https://certificates.cs50.io/06d6ec64-d4a0-4136-a471-219a405afb5d.pdf?size=letter)
 - [Introduction to Computer Science - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
