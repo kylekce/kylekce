@@ -45,7 +45,7 @@
 
 ### ⚙ Other Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
