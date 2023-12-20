@@ -37,6 +37,7 @@
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="github.png" alt="github" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
 </p>
 
 ### ⚙ Other Tech Stack
