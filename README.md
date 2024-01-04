@@ -1,6 +1,6 @@
 ### 🏆 Certifications
 - Algorithms Specialization - Stanford (_currently enrolled_)
-- Introduction to Programming with Python - Harvard (_currently on final project_)
+- [Introduction to Programming with Python - Harvard](https://certificates.cs50.io/71d5dd94-175f-43fe-ae3f-8397c8c85ba7.pdf?size=letter)
 - [Web Programming with Python and JavaScript - Harvard](https://certificates.cs50.io/06d6ec64-d4a0-4136-a471-219a405afb5d.pdf?size=letter)
 - [Introduction to Computer Science - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
 - [Information Technology Specialist in Java - Certiport](https://www.credly.com/badges/f2355d50-390e-4535-b15b-08163ec493ad)
@@ -11,9 +11,10 @@
 
 ### 💼 Top Projects
 - [Video Lens](https://github.com/starkproj/) - A research on video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Fullstack Dev**)
-- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Fullstack Dev**)
-- [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews. (**Fullstack Dev**)
-- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Software Dev**)
+- [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract for precise optical character recognition (OCR) and the Google Translation API for seamless translation. (**Desktop Application Dev**)
+- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Fullstack Web Dev**)
+- [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews. (**Fullstack Web Dev**)
+- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Desktop Application Dev**)
 
 ### 💻 Languages
 <p>  
