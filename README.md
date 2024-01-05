@@ -12,7 +12,7 @@
 ### 💼 Top Projects
 - [Video Lens](https://github.com/starkproj/) - A research on video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Full Stack Dev**)
 - [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
-- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Fullstack Dev**)
+- [coblend](https://coblend.art/) - A real-time collaborative drawing platform with sync drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Full Stack Dev**)
 - [FlashCodes](https://flashcodes.fun/) - A unique learning platform that combines the fun of code typeraces with the efficiency of flashcard reviews. (**Full Stack Dev**)
 - [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Desktop Application Dev**)
 
