@@ -75,5 +75,3 @@
     </td>
   </tr>
 </table>
-
-![sql-server-icon]()
