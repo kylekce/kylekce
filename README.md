@@ -1,5 +1,5 @@
 ### 🏆 Certifications
-- Algorithms Specialization - Stanford (_currently enrolled_)
+<!-- Algorithms Specialization - Stanford (_currently enrolled_) -->
 - [Introduction to Programming with Python - Harvard](https://cs50.harvard.edu/certificates/71d5dd94-175f-43fe-ae3f-8397c8c85ba7)
 - [Web Programming with Python and JavaScript - Harvard](https://cs50.harvard.edu/certificates/06d6ec64-d4a0-4136-a471-219a405afb5d)
 - [Introduction to Computer Science - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
