@@ -75,7 +75,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kylekce&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylekce&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kylekce&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
