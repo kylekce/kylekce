@@ -10,11 +10,11 @@
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
 
 ### 💼 Top Projects
-- [Video Lens](https://github.com/starkproj/) - A research on video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Full Stack Dev**)
+- [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating CV and NLP (**Design Lead and Full Stack Dev**)
 - [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
 - [coblend](https://coblend.art/) - A Django web app for real-time collaborative drawing. It offers synchronized drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Full Stack Dev**)
-- [FlashCodes](https://flashcodes.fun/) - An online flashcard platform designed for programmers and coders. Built with Flask, it provides a unique learning experience by combining code typeraces and flashcards. (**Full Stack Dev**)
-- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A Python-based and Java-based Credit Card Validation Systems. (**Desktop Application Dev**)
+- [FlashCodes](https://flashcodes.fun/) - Built with Flask, it is an online flashcard platform designed for programmers and coders. It provides a unique learning experience by combining the idea of code type-racing and flashcards. (**Full Stack Dev**)
+- [Credit Card Validation Systems](https://github.com/kylekce/Credit-Card-Validation-Systems/) - A collection of Python-based and Java-based Credit Card Validation Systems. (**Desktop Application Dev**)
 
 ### 💻 Languages
 <p>  
