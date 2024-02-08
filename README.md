@@ -41,23 +41,25 @@
   <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
   <a href="https://www.apachefriends.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="xampp" width="40" height="40"/></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hugging face" width="40" height="40"/></a>
-</p>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/kylekce/kylekce/assets/18277662/4712fde4-4b1f-4338-a2e3-dd1a62049093" alt="postman" width="40" height="40"/></a>
+
+
 
 ### ⚙ Other Tech Stack
 <div align="center">
+  <img src="https://shields.io/badge/Hugging_Face-ff9801?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAABX0lEQVR4nE2RMUhbYRhFz580hiZpk0o3EcFaEFsQnIKlcx0iOAiOoqCrUIVuHTplKpVSl4Lg4mTo4lTBpRQy6KBRcSkUFLO8weGlClGPQ+Kjd7vn++5yLwBg0WX3vfbGG6/dd9li5xIAfMN3HrPFL86Aft4yzRUL4XcnXTZ21QL/yYKrxpYBn3rqV0fcsW4FwEnr7jjimqc+CS7xgQF+cskFU7wA/vCDPkq84y9V3POzw85YMmPFtGkrZiw547Bf3Evxkmc0GCcd2mE73IbbsB3apBmnQYmhFBmOibjjwDl7Aex1jgPuiDgii5GvLJpzxXObNmzY9NwVcxZ9bfSINTZZZ4NRJnlOP3BGxHt6mGWeb3iiak1dTFpY7BI9wUMfVEseagk7xGpiYgcBHDROWDVFk1Y3mCcLQJZ8l7Rodraoq7rrhGOOOeGuqnXLD2sWmCZDnk/kgH98pEWbrRDDPTfk7v+sIzZNAAAAAElFTkSuQmCC">
   <img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
