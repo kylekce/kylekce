@@ -1,5 +1,4 @@
 ### 🏆 Certifications
-<!-- Algorithms Specialization - Stanford (_currently enrolled_) -->
 - [Introduction to Programming with Python - Harvard](https://cs50.harvard.edu/certificates/71d5dd94-175f-43fe-ae3f-8397c8c85ba7)
 - [Web Programming with Python and JavaScript - Harvard](https://cs50.harvard.edu/certificates/06d6ec64-d4a0-4136-a471-219a405afb5d)
 - [Introduction to Computer Science - Harvard](https://cs50.harvard.edu/certificates/4f8cbb5a-5fd2-47a3-b546-2bd3b123dd7f)
@@ -8,6 +7,7 @@
 - [CCNAv7: Introduction to Networks - Cisco](https://www.credly.com/badges/8a82c881-038f-4b15-b9e6-c5fc62cc94fa)
 - [DevNet Associate - Cisco](https://www.credly.com/badges/6ba4d0c9-9590-4e57-aa85-1e6f3410dc4a)
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/kylekce/responsive-web-design)
+- [AI For Everyone - DeepLearning.AI](https://www.coursera.org/account/accomplishments/records/3EF7SUFGYZYP)
 
 ### 💼 Top Projects
 - [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating CV and NLP (**Design Lead and Full Stack Dev**)
