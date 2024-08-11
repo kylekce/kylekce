@@ -1,16 +1,14 @@
 ### Please check out my official website at [kylekce-official-website.vercel.app](https://kylekce-official-website.vercel.app/) to learn more.
 
-### 💼 Top Projects
+### 💼 Top 3 Projects
 - [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating CV and NLP (**Design Lead and Full Stack Dev**)
 - [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
 - [coblend](https://coblend.art/) - A Django web app for real-time collaborative drawing. It offers synchronized drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Full Stack Dev**)
-- [FlashCodes](https://flashcodes.onrender.com) - Built with Flask, it is an online flashcard platform designed for programmers and coders. It provides a unique learning experience by combining the idea of code type-racing and flashcards. (**Full Stack Dev**)
 
 ### 💻 Languages
 <p>  
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
