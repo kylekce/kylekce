@@ -17,47 +17,6 @@
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/kylekce/kylekce/assets/18277662/73fa044d-4266-4cd0-a646-526cd6d754e5" alt="sql" width="40" height="40"/></a>
 </p>
 
-### 🔧 Tools
-<p> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual studio code" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="clion" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="github.png" alt="github" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="xampp" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/kylekce/kylekce/assets/18277662/4712fde4-4b1f-4338-a2e3-dd1a62049093" alt="postman" width="40" height="40"/></a>
-
-
-
-### ⚙ Other Tech Stack
-<div align="center">
-  <img src="https://shields.io/badge/Hugging_Face-ff9801?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAABX0lEQVR4nE2RMUhbYRhFz580hiZpk0o3EcFaEFsQnIKlcx0iOAiOoqCrUIVuHTplKpVSl4Lg4mTo4lTBpRQy6KBRcSkUFLO8weGlClGPQ+Kjd7vn++5yLwBg0WX3vfbGG6/dd9li5xIAfMN3HrPFL86Aft4yzRUL4XcnXTZ21QL/yYKrxpYBn3rqV0fcsW4FwEnr7jjimqc+CS7xgQF+cskFU7wA/vCDPkq84y9V3POzw85YMmPFtGkrZiw547Bf3Evxkmc0GCcd2mE73IbbsB3apBmnQYmhFBmOibjjwDl7Aex1jgPuiDgii5GvLJpzxXObNmzY9NwVcxZ9bfSINTZZZ4NRJnlOP3BGxHt6mGWeb3iiak1dTFpY7BI9wUMfVEseagk7xGpiYgcBHDROWDVFk1Y3mCcLQJZ8l7Rodraoq7rrhGOOOeGuqnXLD2sWmCZDnk/kgH98pEWbrRDDPTfk7v+sIzZNAAAAAElFTkSuQmCC">
-  <img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
-
 </br>
 
 <table>
