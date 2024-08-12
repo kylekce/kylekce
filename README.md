@@ -1,9 +1,9 @@
 ### Please check out my official website at [kylekce-official-website.vercel.app](https://kylekce-official-website.vercel.app/) to learn more.
 
 ### 💼 Top 3 Projects
-- [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating CV and NLP (**Design Lead and Full Stack Dev**)
-- [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
-- [coblend](https://coblend.art/) - A Django web app for real-time collaborative drawing. It offers synchronized drawing, shared canvases, and integrated chat for seamless creative collaboration. (**Full Stack Dev**)
+- [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Full Stack Dev**)
+- [CoBlend](https://coblend.art) -	A full-stack real-time website built with Next, Express, and SQL, allowing multiple users to draw simultaneously on the same canvas, with modern drawing features, and an integrated chat for a collaborative experience. (**Full Stack Dev**)
+- [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application built with Python, tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
 
 ### 💻 Languages
 <p>  
