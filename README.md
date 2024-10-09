@@ -1,4 +1,4 @@
-### Please check out my official website at [https://kyleespanol.vercel.app) to learn more.
+### Please check out my official website at https://kyleespanol.vercel.app to learn more.
 
 ### 💼 Top 3 Projects
 - [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Full Stack Dev**)
