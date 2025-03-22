@@ -3,7 +3,7 @@
 ### 💼 Top 3 Projects
 - [Video Lens](https://github.com/starkproj/) - An award-winning research on AI video content analysis system integrating Computer Vision and Natural Language Processing. (**Design Lead and Full Stack Dev**)
 - [COBLEND](https://www.coblend.net) -	A full-stack real-time website built with Next, Express, and SQL, allowing multiple users to draw simultaneously on the same canvas, with modern drawing features, and an integrated chat for a collaborative experience. (**Full Stack Dev**)
-- [Comic Lens](https://github.com/kylekce/Comic-Lens) - An open-source desktop application built with Python, tailored for manga, comics, and webcomic enthusiasts, leveraging Google Tesseract and Google Translation API. (**Desktop Application Dev**)
+- [Outfit Wishlist](https://outfitwishlist.store) - Outfit Wishlist is a platform that allows you to create and track your favorite outfits from your favorite brands and online stores. Sign up today to start creating your wishlist sets. (**Full Stack Dev**)
 
 ### 💻 Languages
 <p>  
